@@ -6,3 +6,5 @@
 
 The goal of shared-project is to ...
 
+
+## Partner Contribution by Emmanuella
